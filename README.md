@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Definispect
+- 👀 I’m interested in music, code, video games, finance, business, fitness, self-development, spirituality, and a whole host of other things!
+- 🌱 I’m currently learning front-end development via the Odin Project!
+- 💞️ I’m looking to collaborate on projects that can help me build my portfolio.
+- 📫 How to reach me? You don't! (not yet, at least) :)
